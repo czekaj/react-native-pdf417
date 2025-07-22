@@ -7,6 +7,8 @@
 
 // props
 RCT_EXPORT_VIEW_PROPERTY(text, NSString)
+RCT_EXPORT_VIEW_PROPERTY(rows, NSNumber)
+RCT_EXPORT_VIEW_PROPERTY(errorCorrectionLevel, NSNumber)
 
 // events
 RCT_EXPORT_VIEW_PROPERTY(onBarcodePress, RCTDirectEventBlock)

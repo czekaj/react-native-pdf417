@@ -2,6 +2,8 @@ import React from 'react';
 import { requireNativeComponent, ViewProps } from 'react-native';
 
 interface BarcodeViewNativeProps extends ViewProps {
+  rows?: number;
+  errorCorrectionLevel?: number;
   text: string;
   onBarcodePress?: () => void;
 }
