@@ -1,5 +1,5 @@
 {
-  "name": "@reeq/react-native-pdf417",
+  "name": "@czekaj/react-native-pdf417",
   "version": "1.0.6",
   "description": "React-Native library which allows you to generate a barcode in pdf417 format",
   "main": "lib/commonjs/index",
@@ -35,13 +35,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/reeq-dev/react-native-pdf417",
-  "author": "Ganas Alexander <nooolie@gmail.com> (https://github.com/reeq-dev)",
+  "repository": "https://github.com/czekaj/react-native-pdf417",
+  "author": "Ganas Alexander <nooolie@gmail.com> (https://github.com/czekaj)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/reeq-dev/react-native-pdf417/issues"
+    "url": "https://github.com/czekaj/react-native-pdf417/issues"
   },
-  "homepage": "https://github.com/reeq-dev/react-native-pdf417#readme",
+  "homepage": "https://github.com/czekaj/react-native-pdf417#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
