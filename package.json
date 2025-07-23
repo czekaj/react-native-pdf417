@@ -42,7 +42,10 @@
     "custom-rows",
     "zxing"
   ],
-  "repository": "https://github.com/czekaj/react-native-pdf417",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/czekaj/react-native-pdf417.git"
+  },
   "author": "Ganas Alexander <nooolie@gmail.com> (https://github.com/czekaj)",
   "license": "MIT",
   "bugs": {
@@ -50,7 +53,8 @@
   },
   "homepage": "https://github.com/czekaj/react-native-pdf417#readme",
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
   },
   "devDependencies": {
     "@arkweid/lefthook": "^0.7.7",
